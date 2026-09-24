@@ -103,6 +103,5 @@ Just 2 things:
 1. Install libraries (1x, takes 2 min)
 2. Update paths in script
 3. Run it
-4. Check Excel
+4. Check Results saved in Excel File in the same folder
 
-Questions? Read the SYNC_DETECTION_SUMMARY.txt for what each issue means.
